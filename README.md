@@ -20,14 +20,16 @@ Although despite their best efforts to block our script, it still works flawless
 - Archived Link: https://archive.is/dtDra
 
 ## OpenAI AI Classifier Bypasser 
-Coming Soon. 
+https://gonzoknows.com/posts/Bypass-AI-Detection-Bot-Method-1/
+
 `Pro tip: the GTPZero bypasser works for this too`
 
 ### Alternative Bypass Using A Font Changer 
 https://gonzoknows.com/posts/Bypass-AI-Detection-Using-Different-Fonts/
 
 ## DetectGPT Bypasser
-Coming Soon. 
+https://gonzoknows.com/posts/Bypass-AI-Detection-Bot-Method-1/
+
 `Pro tip: the GTPZero bypasser works for this too`
 
 ### Alternative Bypass Using A Font Changer 
