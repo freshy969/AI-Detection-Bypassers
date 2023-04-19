@@ -20,7 +20,7 @@ Although despite their best efforts to block our script, it still works flawless
 - Archived Link: https://archive.is/dtDra
 
 ## Universal AI Detection Bypass Bot
-https://gonzoknows.com/posts/Bypass-AI-Detection-Bot-Method-1/
+
 
 Alternative Bypass Using A Font Changer: 
 
